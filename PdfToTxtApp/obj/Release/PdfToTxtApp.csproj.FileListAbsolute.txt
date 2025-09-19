@@ -1,0 +1,15 @@
+D:\mohamad\pdftotext\PdfToTxtApp\PdfToTxtApp\bin\Release\PdfToTxtApp.exe.config
+D:\mohamad\pdftotext\PdfToTxtApp\PdfToTxtApp\bin\Release\PdfToTxtApp.exe
+D:\mohamad\pdftotext\PdfToTxtApp\PdfToTxtApp\bin\Release\PdfToTxtApp.pdb
+D:\mohamad\pdftotext\PdfToTxtApp\PdfToTxtApp\bin\Release\itextsharp.dll
+D:\mohamad\pdftotext\PdfToTxtApp\PdfToTxtApp\bin\Release\itextsharp.xml
+D:\mohamad\pdftotext\PdfToTxtApp\PdfToTxtApp\obj\Release\PdfToTxtApp.ConvertFrm.resources
+D:\mohamad\pdftotext\PdfToTxtApp\PdfToTxtApp\obj\Release\PdfToTxtApp.Properties.Resources.resources
+D:\mohamad\pdftotext\PdfToTxtApp\PdfToTxtApp\obj\Release\PdfToTxtApp.csproj.GenerateResource.Cache
+D:\mohamad\pdftotext\PdfToTxtApp\PdfToTxtApp\obj\Release\PdfToTxtApp.exe
+D:\mohamad\pdftotext\PdfToTxtApp\PdfToTxtApp\obj\Release\PdfToTxtApp.pdb
+D:\mohamad\pdftotext\PdfToTxtApp\PdfToTxtApp\bin\Release\PdfToTxtApp.exe.manifest
+D:\mohamad\pdftotext\PdfToTxtApp\PdfToTxtApp\bin\Release\PdfToTxtApp.application
+D:\mohamad\pdftotext\PdfToTxtApp\PdfToTxtApp\obj\Release\PdfToTxtApp.exe.manifest
+D:\mohamad\pdftotext\PdfToTxtApp\PdfToTxtApp\obj\Release\PdfToTxtApp.application
+D:\mohamad\pdftotext\PdfToTxtApp\PdfToTxtApp\obj\Release\PdfToTxtApp.csprojResolveAssemblyReference.cache
