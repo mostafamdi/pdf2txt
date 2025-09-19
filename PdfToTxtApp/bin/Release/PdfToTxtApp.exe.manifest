@@ -109,14 +109,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="PdfToTxtApp.exe" size="12288">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="PdfToTxtApp.exe" size="17920">
       <assemblyIdentity name="PdfToTxtApp" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>pCj5r9O+rzmk+IuhvwMY1lCTcICudwfw+F7fGR1lAG0=</dsig:DigestValue>
+        <dsig:DigestValue>9gc7TONcMsDo3qfuEsCid517POVDAmEHKN3Ekl11Ixk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

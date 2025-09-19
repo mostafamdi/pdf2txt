@@ -100,12 +100,15 @@ namespace PdfToTxtApp
         {
             if (numberFiles == 0)
             {
-                MessageBox.Show("Please Select at least a file");
+                MessageBox.Show("Please Select at least a file", "no!", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
             else
             {
                 numberOfConvertedFilesLbl.Text = "0";
                 counter = 0;
+                inprogressLbl.Visible = true;
+                progressPic.Visible = true;
+               
                 convertBackgroundWorker.RunWorkerAsync();
                
             }
@@ -121,12 +124,16 @@ namespace PdfToTxtApp
 
         private void convertBackgroundWorker_RunWorkerCompleted(object sender, RunWorkerCompletedEventArgs e)
         {
-            operationResultLbl.Text = "Done";
+            MessageBox.Show("Done!", "Successfully", MessageBoxButtons.OK, MessageBoxIcon.Information);
             numberFiles = 0;
             this.Invoke((MethodInvoker)(() =>
             {
                 progressBar1.Value = 100;
                 progressLbl.Text = "100%";
+           
+                ////
+                inprogressLbl.Visible = false;
+                progressPic.Visible = false;
             }));
         }
     }
