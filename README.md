@@ -1,9 +1,11 @@
 **PDF to TXT Converter**
+
 This is a simple application for converting English PDF files to TXT files.
 You can select one or multiple files and convert them quickly.
 In the future, support for other languages and conversion to Word format will be added.
 
 **Features**
+
 ✅ Convert English PDF files to TXT
 ✅ Support for selecting one or multiple files
 🚀 Fast and lightweight
@@ -11,6 +13,7 @@ In the future, support for other languages and conversion to Word format will be
 🛠️ Future: Convert PDF to Word
 
 **Installation**
+
 Clone the repository:
 **git clone https://github.com/username/repo-name.git**
 Open the project in Visual Studio (or your preferred IDE) and build it.
