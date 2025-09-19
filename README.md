@@ -21,4 +21,5 @@ Select one or multiple PDF files.
 Click Convert to generate TXT files.
 
 **Screenshots**
+
 <img width="300" height="287" alt="screenshot" src="https://github.com/user-attachments/assets/49713595-33fe-4e71-830d-7da5053fb490" />
